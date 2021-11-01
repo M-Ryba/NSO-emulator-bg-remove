@@ -2,8 +2,9 @@
 Do you hate the background in the Nintendo Switch Online emulator apps? If yes, then you've come to the right place.
 
 Installation:
-1. Just copy either 0100D870045B6000 (NES Online) or 01008D300C50C000 (SNES Online) or both folders to the \atmosphere\contents folder on your SD Card
-2. Profit
+1. Just copy 0100D870045B6000 (NES), 01008D300C50C000 (SNES), 0100C9A00ECE6000 (N64) or 0100B3C014BDA000 (Sega Genesis) folder/folders to the \atmosphere\contents folder on your SD Card
+2. ?????
+3. Profit
 
 Before:
 ![2021092415533800_s](https://user-images.githubusercontent.com/34245941/134686724-30931534-bece-47bf-a07c-d182651f9ec0.jpg)
