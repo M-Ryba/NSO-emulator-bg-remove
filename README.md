@@ -1,7 +1,7 @@
 # NSO-emulator-bg-remove
 Do you hate the background in the Nintendo Switch Online emulator apps? If the answer is yes, then you've come to the right place.
 
-Installation (Atmosphere CFW requred):
+Installation (Atmosphere CFW required):
 1. Download this repository by clicking Code -> Download ZIP
 2. Copy 0100D870045B6000 (NES), 01008D300C50C000 (SNES), 0100C9A00ECE6000 (N64) or 0100B3C014BDA000 (Sega Genesis) folder(s) to the /atmosphere/contents folder on your SD Card
 3. ?????
